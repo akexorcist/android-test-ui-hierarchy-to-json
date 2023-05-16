@@ -1,6 +1,7 @@
 {
   "name": "android-text-ui-hierarchy-to-json",
-  "version": "0.1.0",
+  "homepage": "https://akexorcist.github.io/android-test-ui-hierarchy-to-json",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.11.0",
@@ -13,6 +14,7 @@
     "@types/node": "^20.0.0",
     "@types/react": "^18.2.5",
     "@types/react-dom": "^18.2.3",
+    "gh-pages": "^5.0.0",
     "react": "^18.2.0",
     "react-copy-to-clipboard": "^5.1.0",
     "react-dom": "^18.2.0",
@@ -22,6 +24,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
