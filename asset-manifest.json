@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/android-test-ui-hierarchy-to-json/static/css/main.2db1e982.css",
+    "main.js": "/android-test-ui-hierarchy-to-json/static/js/main.8eccf245.js",
+    "static/js/787.b1e6796d.chunk.js": "/android-test-ui-hierarchy-to-json/static/js/787.b1e6796d.chunk.js",
+    "index.html": "/android-test-ui-hierarchy-to-json/index.html",
+    "main.2db1e982.css.map": "/android-test-ui-hierarchy-to-json/static/css/main.2db1e982.css.map",
+    "main.8eccf245.js.map": "/android-test-ui-hierarchy-to-json/static/js/main.8eccf245.js.map",
+    "787.b1e6796d.chunk.js.map": "/android-test-ui-hierarchy-to-json/static/js/787.b1e6796d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2db1e982.css",
+    "static/js/main.8eccf245.js"
+  ]
+}
